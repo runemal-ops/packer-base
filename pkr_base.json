@@ -1,0 +1,41 @@
+{
+  "builds": [
+    {
+      "name": "alpine",
+      "builder_type": "docker",
+      "build_time": 1624589372,
+      "files": null,
+      "artifact_id": "sha256:b07c08f1158f93bc05701a8a675bbf83261c427bf192d1c89c107781c9ad0f29",
+      "packer_run_uuid": "eb2edeb1-e9ed-03c8-5180-5794998481d0",
+      "custom_data": null
+    },
+    {
+      "name": "alpine",
+      "builder_type": "docker",
+      "build_time": 1624592082,
+      "files": null,
+      "artifact_id": "sha256:6b568b7ced3a234baf8f4e7ef0dbf7e31cabbf1d1018f7f607f488a6eebf751b",
+      "packer_run_uuid": "93c930b4-9783-2e9c-a908-91f119320932",
+      "custom_data": null
+    },
+    {
+      "name": "alpine",
+      "builder_type": "docker",
+      "build_time": 1624592113,
+      "files": null,
+      "artifact_id": "sha256:494c3fe4ab85db6491f49a77d1a14859b562619c437b7f4f12d312a5f7e95772",
+      "packer_run_uuid": "f6bbdce0-f905-e73f-7d15-ce817d739730",
+      "custom_data": null
+    },
+    {
+      "name": "alpine",
+      "builder_type": "docker",
+      "build_time": 1624592195,
+      "files": null,
+      "artifact_id": "sha256:2276cb76694a8916cdd9ecf0800ee6871d91da31ad3f78d848d84530be8c9adc",
+      "packer_run_uuid": "dbf4b673-1547-2673-4d45-901ae6e9ab10",
+      "custom_data": null
+    }
+  ],
+  "last_run_uuid": "dbf4b673-1547-2673-4d45-901ae6e9ab10"
+}
